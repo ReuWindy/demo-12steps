@@ -3,7 +3,7 @@ package com.tuda24.steps.security.jwt;
 import com.tuda24.steps.entity.RefreshToken;
 import com.tuda24.steps.entity.User;
 import com.tuda24.steps.exception.NotFoundException;
-import com.tuda24.steps.repository.UserRepository;
+import com.tuda24.steps.repository.User.UserRepository;
 import com.tuda24.steps.security.dto.LoginRequest;
 import com.tuda24.steps.security.dto.LoginResponse;
 import com.tuda24.steps.security.dto.LogoutResponse;

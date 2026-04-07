@@ -2,7 +2,7 @@ package com.tuda24.steps.dao.implement;
 
 import com.tuda24.steps.dao.UserDAO;
 import com.tuda24.steps.entity.User;
-import com.tuda24.steps.repository.UserRepository;
+import com.tuda24.steps.repository.User.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;

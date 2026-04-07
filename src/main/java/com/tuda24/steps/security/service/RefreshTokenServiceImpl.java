@@ -3,7 +3,7 @@ package com.tuda24.steps.security.service;
 import com.tuda24.steps.entity.RefreshToken;
 import com.tuda24.steps.entity.User;
 import com.tuda24.steps.exception.NotFoundException;
-import com.tuda24.steps.repository.RefreshTokenRepository;
+import com.tuda24.steps.repository.RefreshToken.RefreshTokenRepository;
 import com.tuda24.steps.security.utils.TokenHashUtil;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;

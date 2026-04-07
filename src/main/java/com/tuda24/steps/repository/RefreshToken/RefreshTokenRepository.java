@@ -1,4 +1,4 @@
-package com.tuda24.steps.repository;
+package com.tuda24.steps.repository.RefreshToken;
 
 import com.tuda24.steps.entity.RefreshToken;
 import org.springframework.data.jpa.repository.JpaRepository;

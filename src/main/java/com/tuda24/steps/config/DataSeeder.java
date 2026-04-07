@@ -1,7 +1,7 @@
 package com.tuda24.steps.config;
 
 import com.tuda24.steps.entity.Role;
-import com.tuda24.steps.repository.RoleRepository;
+import com.tuda24.steps.repository.Role.RoleRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;

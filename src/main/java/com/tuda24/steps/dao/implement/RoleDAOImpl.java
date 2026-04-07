@@ -1,11 +1,9 @@
 package com.tuda24.steps.dao.implement;
 
 import com.tuda24.steps.dao.RoleDAO;
-import com.tuda24.steps.dto.role.*;
 import com.tuda24.steps.entity.Role;
-import com.tuda24.steps.repository.RoleRepository;
+import com.tuda24.steps.repository.Role.RoleRepository;
 import org.springframework.stereotype.Component;
-import org.springframework.stereotype.Repository;
 
 import java.util.List;
 import java.util.Optional;
